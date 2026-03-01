@@ -209,7 +209,7 @@ The application will throw an error if `GEMINI_API_KEY` is not set. Ensure your 
 
 ## 📄 License
 
-ISC
+This project is licensed under the MIT License - a permissive open-source license that allows for reuse with minimal restrictions. You are free to use, modify, and distribute this software for both commercial and non-commercial purposes.
 
 ## 🤝 Contributing
 

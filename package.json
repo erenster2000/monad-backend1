@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/erenster2000/monad-backend.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "axios": "^1.13.6",
